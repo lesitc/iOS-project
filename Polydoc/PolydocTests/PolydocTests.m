@@ -1,18 +1,18 @@
 //
-//  xcode_projectTests.m
-//  xcode_projectTests
+//  PolydocTests.m
+//  PolydocTests
 //
 //  Created by ig_2014 on 20/02/2014.
-//  Copyright (c) 2014 ig_2014. All rights reserved.
+//  Copyright (c) 2014 mucketeam. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface xcode_projectTests : XCTestCase
+@interface PolydocTests : XCTestCase
 
 @end
 
-@implementation xcode_projectTests
+@implementation PolydocTests
 
 - (void)setUp
 {
